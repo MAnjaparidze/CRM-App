@@ -8,8 +8,8 @@ run command: 'git clone https://github.com/MAnjaparidze/CRM-App.git' without quo
 
 After that, navigate into CRM directory with command prompt and run command: npm install, in order to get all the dependencies, necessary for running an application.
 
-Finally run command: react-native run-android - for Android Based Phones or 
-                     react-native run-ios - for IOS Based Phones.
+Finally run command: 'react-native run-android' - for Android Based Phones or 
+                     'react-native run-ios' - for IOS Based Phones.
 
 # Using an Application
 
